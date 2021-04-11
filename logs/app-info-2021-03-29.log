@@ -1,0 +1,130 @@
+[INFO ] 2021-03-29 21:45:02.837 [main] ExcelHelper - testing for hero images
+[INFO ] 2021-03-29 22:09:28.448 [main] ExcelHelper - testing for hero images
+[INFO ] 2021-03-29 22:18:33.100 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:18:33.106 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:18:33.107 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:20:13.770 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:20:13.774 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:20:13.774 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:24:17.091 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:24:17.099 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:24:17.099 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:28:49.848 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:28:49.853 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:28:49.853 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:35:18.147 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:35:18.152 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:35:18.152 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:35:18.152 [main] ExcelHelper - Book1.xls
+[INFO ] 2021-03-29 22:35:18.152 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:41:03.167 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:41:03.174 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:41:03.174 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:41:03.174 [main] ExcelHelper - Book1.xls
+[INFO ] 2021-03-29 22:41:03.174 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:46:14.572 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:46:14.577 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:46:14.577 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:46:14.577 [main] ExcelHelper - Book1.xls
+[INFO ] 2021-03-29 22:46:14.577 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:47:46.683 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:47:46.687 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:47:46.689 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:47:46.689 [main] ExcelHelper - Book1.xls
+[INFO ] 2021-03-29 22:47:46.689 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:47:47.232 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 22:47:47.233 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 22:47:47.235 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 22:47:47.235 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:47:47.239 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:51:15.084 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:51:15.113 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:51:15.114 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:51:15.114 [main] ExcelHelper - Book1.xls
+[INFO ] 2021-03-29 22:51:15.114 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:51:16.358 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 22:51:16.359 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 22:51:16.362 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 22:51:16.362 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:51:16.366 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:53:07.366 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:53:07.381 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:53:07.381 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:53:07.382 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-29 22:53:07.382 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:53:07.964 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 22:53:07.965 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 22:53:07.968 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 22:53:07.969 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:53:07.981 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:57:28.213 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 22:57:28.224 [main] ExcelHelper - test
+[INFO ] 2021-03-29 22:57:28.224 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 22:57:28.225 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-29 22:57:28.225 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 22:57:28.812 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 22:57:28.813 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 22:57:28.814 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 22:57:28.815 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-29 22:57:28.815 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 22:57:28.821 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-29 22:57:28.822 [main] ExcelHelper - total cols:2
+[ERROR] 2021-03-29 22:57:28.943 [main] ExcelHelper - ExcelHelper exceptionjava.io.FileNotFoundException: C:\Delina\Frameworks\Resources1\test-data\Book2.xlsx (The process cannot access the file because it is being used by another process)
+[INFO ] 2021-03-29 23:01:31.648 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 23:01:31.655 [main] ExcelHelper - test
+[INFO ] 2021-03-29 23:01:31.656 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 23:01:31.656 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-29 23:01:31.656 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 23:01:32.201 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 23:01:32.202 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 23:01:32.204 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 23:01:32.204 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:01:32.204 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-29 23:01:32.204 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 23:01:32.210 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:01:32.210 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-29 23:01:32.210 [main] ExcelHelper - total cols:2
+[ERROR] 2021-03-29 23:01:32.312 [main] ExcelHelper - ExcelHelper exceptionjava.io.FileNotFoundException: C:\Delina\Frameworks\Resources1\test-data\Book2.xlsx (The process cannot access the file because it is being used by another process)
+[INFO ] 2021-03-29 23:08:48.961 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 23:08:48.966 [main] ExcelHelper - test
+[INFO ] 2021-03-29 23:08:48.966 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 23:08:48.966 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-29 23:08:48.966 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 23:08:49.491 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 23:08:49.491 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 23:08:49.493 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 23:08:49.493 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:08:49.494 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-29 23:08:49.494 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 23:08:49.499 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:08:49.499 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-29 23:08:49.499 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 23:16:48.441 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 23:16:48.448 [main] ExcelHelper - test
+[INFO ] 2021-03-29 23:16:48.448 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 23:16:48.448 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-29 23:16:48.448 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 23:16:49.025 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 23:16:49.026 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 23:16:49.029 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 23:16:49.029 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:16:49.029 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-29 23:16:49.029 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 23:16:49.036 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:16:49.037 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-29 23:16:49.037 [main] ExcelHelper - total cols:2
+[ERROR] 2021-03-29 23:16:50.349 [main] ExcelHelper - ExcelHelper exceptionjava.io.FileNotFoundException: C:\Delina\Frameworks\Resources1\test-data\Book2.xlsx (The process cannot access the file because it is being used by another process)
+[INFO ] 2021-03-29 23:19:07.018 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-29 23:19:07.024 [main] ExcelHelper - test
+[INFO ] 2021-03-29 23:19:07.024 [main] ExcelHelper - Test
+[INFO ] 2021-03-29 23:19:07.024 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-29 23:19:07.025 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-29 23:19:07.547 [main] ExcelHelper - Test1
+[INFO ] 2021-03-29 23:19:07.548 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-29 23:19:07.549 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-29 23:19:07.550 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:19:07.550 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-29 23:19:07.550 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-29 23:19:07.554 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-29 23:19:07.554 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-29 23:19:07.554 [main] ExcelHelper - total cols:2

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Delina/Frameworks">
+        <classes>
+            <class name="com.walmart.test.HomePageTest">
+                <methods>
+                    <include name="searchTest"/>
+                </methods>
+            </class>
+            <class name="com.walmart.test.SearchResultsPageTest">
+                <methods>
+                    <include name="accountElementTest"/>
+                    <include name="logoDisplayedTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

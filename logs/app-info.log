@@ -1,0 +1,76 @@
+[INFO ] 2021-03-31 23:39:39.330 [main] ExcelHelper - testing for hero images
+[INFO ] 2021-03-31 23:39:40.894 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-31 23:39:40.894 [main] ExcelHelper - test
+[INFO ] 2021-03-31 23:39:40.895 [main] ExcelHelper - Test
+[INFO ] 2021-03-31 23:39:40.895 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-31 23:39:40.896 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-31 23:39:41.339 [main] ExcelHelper - Test1
+[INFO ] 2021-03-31 23:39:41.340 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-31 23:39:41.342 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-31 23:39:41.342 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:39:41.358 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-31 23:39:41.358 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:39:41.363 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:39:41.364 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-31 23:39:41.364 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:39:50.143 [main] HomePageTest - Search Page Title retrieved
+[INFO ] 2021-03-31 23:40:01.304 [main] HomePageTest - Search Page Title retrieved
+[INFO ] 2021-03-31 23:40:25.051 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-31 23:40:25.056 [main] ExcelHelper - test
+[INFO ] 2021-03-31 23:40:25.056 [main] ExcelHelper - Test
+[INFO ] 2021-03-31 23:40:25.057 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-31 23:40:25.057 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-31 23:40:25.503 [main] ExcelHelper - Test1
+[INFO ] 2021-03-31 23:40:25.504 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-31 23:40:25.506 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-31 23:40:25.506 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:40:25.506 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-31 23:40:25.506 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:40:25.511 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:40:25.511 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-31 23:40:25.511 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:40:35.043 [main] HomePageTest - Search Page Title retrieved
+[INFO ] 2021-03-31 23:40:45.108 [main] HomePageTest - Search Page Title retrieved
+[INFO ] 2021-03-31 23:42:43.583 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-31 23:42:43.587 [main] ExcelHelper - test
+[INFO ] 2021-03-31 23:42:43.587 [main] ExcelHelper - Test
+[INFO ] 2021-03-31 23:42:43.587 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-31 23:42:43.587 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-31 23:42:44.000 [main] ExcelHelper - Test1
+[INFO ] 2021-03-31 23:42:44.001 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-31 23:42:44.002 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-31 23:42:44.003 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:42:44.003 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-31 23:42:44.003 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:42:44.007 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:42:44.007 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-31 23:42:44.007 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:44:54.075 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-31 23:44:54.080 [main] ExcelHelper - test
+[INFO ] 2021-03-31 23:44:54.080 [main] ExcelHelper - Test
+[INFO ] 2021-03-31 23:44:54.080 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-31 23:44:54.080 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-31 23:44:54.622 [main] ExcelHelper - Test1
+[INFO ] 2021-03-31 23:44:54.622 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-31 23:44:54.624 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-31 23:44:54.624 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:44:54.624 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-31 23:44:54.625 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:44:54.630 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:44:54.630 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-31 23:44:54.630 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:45:03.198 [main] HomePageTest - Search Page Title retrieved
+[INFO ] 2021-03-31 23:46:02.849 [main] HomePageTest - calling getexceldata
+[INFO ] 2021-03-31 23:46:02.853 [main] ExcelHelper - test
+[INFO ] 2021-03-31 23:46:02.854 [main] ExcelHelper - Test
+[INFO ] 2021-03-31 23:46:02.854 [main] ExcelHelper - Book2.xlsx
+[INFO ] 2021-03-31 23:46:02.854 [main] ExcelHelper - Sheet1
+[INFO ] 2021-03-31 23:46:03.358 [main] ExcelHelper - Test1
+[INFO ] 2021-03-31 23:46:03.358 [main] ExcelHelper - Name: /xl/workbook.xml - Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+[INFO ] 2021-03-31 23:46:03.360 [main] ExcelHelper - total rows:2
+[INFO ] 2021-03-31 23:46:03.360 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:46:03.360 [main] ExcelHelper - value of is1
+[INFO ] 2021-03-31 23:46:03.360 [main] ExcelHelper - total cols:2
+[INFO ] 2021-03-31 23:46:03.364 [main] ExcelHelper - rowsindex is 2
+[INFO ] 2021-03-31 23:46:03.364 [main] ExcelHelper - value of is2
+[INFO ] 2021-03-31 23:46:03.364 [main] ExcelHelper - total cols:2
